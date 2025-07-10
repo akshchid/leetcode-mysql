@@ -71,3 +71,4 @@ WHERE
 GROUP BY t1.business_id
 HAVING COUNT(t1.event_type) > 1;
 
+
