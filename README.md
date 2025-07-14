@@ -12,7 +12,7 @@ Solving Leetcode SQL Questions
 | 5| [ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |[]|
 | 6| [Active Business](https://leetcode.com/problems/active-businesses/description/) 
 |[x]|
-
+| 7| [ Comine_Table.sql](https://leetcode.ca/2016-05-23-175-Combine-Two-Tables/) |[]|
 
 ---
 
