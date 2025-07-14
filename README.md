@@ -2,7 +2,7 @@
 Solving Leetcode SQL Questions 
 
 
-## :white_check_mark: Checklist
+## Tracking Questions
 | # | Problem | Status |
 |---|---------|--------|
 | 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | []  |
