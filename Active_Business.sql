@@ -55,6 +55,7 @@ INSERT INTO events (business_id, event_type, occurences) VALUES
 (1, 'page views', 3),
 (2, 'page views', 12);
 
+--- Solution
 
 SELECT 
     t1.business_id
@@ -70,5 +71,3 @@ WHERE
     t1.occurences > t2.avg_occ
 GROUP BY t1.business_id
 HAVING COUNT(t1.event_type) > 1;
-
-
