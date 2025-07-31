@@ -23,3 +23,10 @@ For example, after running your query, the above Person table should have the fo
 select id, email
 from persons
 where id !=3;
+
+SELECT 
+    id, email
+FROM
+    persons
+WHERE
+    id != 3;
