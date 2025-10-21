@@ -1,7 +1,7 @@
 # Property Price Analysis (MySQL + Power BI)
 
 ## Overview
-This project analyzes property price trends in Sweden (2018–2023), using MySQL for analysis and Power BI for visualization.
+This project analyzes property price trends in the world (2018–2023), using MySQL for analysis and Power BI for visualization.
 
 ## Files
 - `dataset.sql` — CREATE and INSERT statements
@@ -206,7 +206,7 @@ INSERT INTO property (
 ('Eco-Friendly Studio', 'Germany', 'Freiburg', 2020, 6, 3, 2, 1, 1, 800.0, 700.0, 590000.00),
 ('Urban Flat', 'France', 'Grenoble', 2017, 8, 5, 3, 2, 2, 1000.0, 850.0, 810000.00),
 ('Seaside Apartment', 'Portugal', 'Viana do Castelo', 2012, 6, 3, 4, 2, 2, 1300.0, 1100.0, 820000.00),
-('Downtown Studio', 'USA', 'Milwaukee, WI', 2018, 12, 7, 2, 1, 1, 850.0, 750.0, 650000.00),
+('Downtown Studio', 'USA', 'Milwaukee, WI', 2018, 12, 7, 2, 1, 1, 850.0, 750.0, 650000.00);
 
 
 SELECT * FROM property.property;
